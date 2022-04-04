@@ -130,7 +130,7 @@ class _HomeViewState extends State<HomeView> {
 }
 ```
 
-No appbar cria-se um botão onde o usuário pode dar o refresh na lista que, quando clicado, carrega os posts da lista novamente
+No AppBar cria-se um botão onde o usuário pode dar o refresh na lista que, quando clicado, carrega os posts da lista novamente
 
 ```dart
 appBar: AppBar(
